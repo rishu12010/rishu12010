@@ -1,7 +1,7 @@
-### Hola, I'm [Aman Singh!](https://aman9113.github.io/my-protfolio/)👋
-I am a tech enthusiast 💻 who loves programming & exploring more about Development & Love to do Bug Bounty!
+### Hola, I'm [Rishu Shrivastav!](https://aman9113.github.io/my-protfolio/)👋
+I am a tech enthusiast 💻 who loves programming & exploring more about Development & Cyber Security Enthaustic!
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=aman9113&label=Profile views&color=green&style=plastic" alt="aman9113" /> 
+<img src="https://komarev.com/ghpvc/?username=&label=Profile views&color=green&style=plastic" alt="aman9113" /> 
 </p>
 
 
